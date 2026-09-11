@@ -1,0 +1,61 @@
+Week 1 Task: Strategic Planning and Data Exploration in Logistics
+
+1)
+ObjectiveThis task is designed to simulate the planning and strategy phase of a logistics data analysis project.
+
+2)
+You will be tasked with defining a logistics scenario, identifying key performance indicators (KPIs), and outlining the strategic use of data science techniques using Python to address common logistics challenges.
+
+3)
+The focus is on understanding how an analytical approach can help improve supply chain efficiency and resource allocation.
+
+4)
+Expected DeliverablesA comprehensive DOC file that details your strategic planning report.
+
+5)
+Sections covering background research, project objectives, and a roadmap for the analysis.
+
+6)
+Python code pseudocode snippets or actual scripts that illustrate your proposed approach.
+
+7)
+Key Steps to Complete the TaskProject Definition: Begin by describing a realistic logistics scenario that might involve inventory management, route optimization, or supply chain integration.
+
+8)
+Identify at least three KPIs relevant to your scenario.
+
+9)
+Literature and Data Research: Perform research using publicly available data and resources to support your scenario.
+
+10)
+Explain how data science concepts (e.
+
+11)
+g.
+
+12)
+, regression, clustering, optimization) can be applied.
+
+13)
+Strategic Roadmap: Outline an end-to-end process flow of your intended analysis including data collection, cleaning, exploratory analysis, and predictive modeling using Python.
+
+14)
+Code Illustration: Illustrate parts of your approach with Python pseudocode or snippets to show how the tasks will be performed.
+
+15)
+Conclusion: Conclude with the expected outcomes and how these results might impact decision-making in logistics.
+
+16)
+Evaluation CriteriaClarity and relevance of the logistics scenario and KPIs.
+
+17)
+Depth of research and understanding of data science methodologies.
+
+18)
+Logical flow in the strategic roadmap and feasibility of the proposed approach.
+
+19)
+Quality and clarity of writing in the DOC file submission.
+
+20)
+Inclusion of Python code illustrations to support your plan.

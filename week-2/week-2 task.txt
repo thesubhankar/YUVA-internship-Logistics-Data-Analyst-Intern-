@@ -1,0 +1,74 @@
+Week 2 Task: Data Collection, Cleaning, and Preprocessing for Logistics Analysis
+
+
+Objective
+
+
+1)
+ObjectiveThis task focuses on the critical process of data collection and preparation in the context of logistics.
+
+2)
+You will simulate a data preprocessing pipeline that involves data cleaning, handling missing values, and normalization techniques.
+
+3)
+The task emphasizes the importance of preparing high-quality data sets suitable for further analysis using Python.
+
+4)
+Your approach should be documented in a comprehensive DOC file, which demonstrates your understanding and execution of these techniques.
+
+5)
+Expected DeliverablesA DOC file that outlines your process of data collection, cleaning, and preprocessing.
+
+6)
+A clear explanation of the methodology used, including identification of common issues (e.
+
+7)
+g.
+
+8)
+, outliers, missing data) and methods to correct them.
+
+9)
+Python code snippets (or pseudocode) that detail each step of your data preprocessing pipeline.
+
+10)
+Key Steps to Complete the TaskData Collection Simulation: Choose a publicly available logistics dataset as your reference (e.
+
+11)
+g.
+
+12)
+, transport data, shipping times, inventory records).
+
+13)
+Simulate data collection by describing the dataset characteristics.
+
+14)
+Data Cleaning: Identify potential data quality issues and describe techniques to resolve them.
+
+15)
+Include handling missing values, outlier detection, and normalization procedures.
+
+16)
+Methodological Explanation: Provide detailed explanations on why each data cleaning technique is chosen and how it affects the subsequent analysis.
+
+17)
+Code Documentation: Incorporate Python code snippets that illustrate methods such as pandas library functions for cleaning and preprocessing tasks.
+
+18)
+Reflection: Summarize the impact of data quality on analytics and decision-making in logistics.
+
+19)
+Evaluation CriteriaThoroughness of the data cleaning and preprocessing steps.
+
+20)
+Clarity in explaining how issues are identified and resolved.
+
+21)
+Effectiveness and clarity of Python code examples provided.
+
+22)
+Professionalism and structure of the DOC file content.
+
+23)
+Integration of theory with practical application.
