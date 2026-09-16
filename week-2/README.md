@@ -11,8 +11,7 @@ The analysis is conducted on **25,000 shipment dispatches** across 9 major third
 ```
 week-2/
 │
-├── Delivery_Logistics.csv                                        # Raw dataset (25,000 shipment records)
-├── Cleaned_Delivery_Logistics.csv                                # Cleaned and feature-enriched dataset (47 columns)
+├── Delivery_Logistics.csv                                        # Complete dataset (25,000 shipment records)
 ├── data_cleaning_and_preprocessing.ipynb                        # Interactive Jupyter Notebook (EDA, Data Cleaning & Preprocessing)
 ├── Week_2_Data_Collection_Cleaning_and_Preprocessing_Report.docx # Primary deliverable: Comprehensive executive Word report
 ├── week-2 task.txt                                               # Original task guidelines and evaluation criteria
